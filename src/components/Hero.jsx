@@ -8,7 +8,7 @@ const componentName = () => {
                 <div className="md:flex space-y-10 items-center justify-between flex-col lg:flex-row-reverse">
                     <img src={background} className="" />
                     <div className="flex flex-col space-y-10">
-                        <h1 className="md:text-5xl text-3xl font-bold md:w-[450px]">Books to freshen up your bookshelf</h1>
+                        <h1 className="md:text-5xl text-3xl font-bold md:w-[450px]">A charming refuge for book lovers...</h1>
 
                         <Link to='/listedbooks'>
                             < div >
